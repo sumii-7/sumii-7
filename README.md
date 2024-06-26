@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B7A1D,100:68B644&text=Welcome%20to%20sumii-7%20GitHub%20🍀&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FE438E,100:FF8CBA&text=Welcome%20to%20sumii-7%20GitHub%20🍀&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
